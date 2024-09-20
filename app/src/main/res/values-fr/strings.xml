@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculateur de pourboire</string>
+    <string name="welcome">Bienvenue au calculateur de pourboire</string>
+    <string name="billAmount">Montant de la facture</string>
+    <string name="enterAmount">Entrez le montant</string>
+    <string name="applyTaxes">Appliquer les taxes</string>
+    <string name="tipPercent">Pourcentage de pourboire</string>
+    <string name="selectedTip">Pourboire choisi</string>
+    <string name="tipAmount">Valeur du pouboire</string>
+    <string name="totalWithTip">Total avec pourboire</string>
+    <string name="numberOfPeople">Nombre de personnes</string>
+    <string name="amountPerPerson">Montant par personne</string>
+    <string name="bottomBarText">Texte bas</string>
+    <string name="openMap">Ouvrir la carte</string>
+    <string name="addTip">Ajouter</string>
+    <string name="latitude">Latitude</string>
+    <string name="enterLatitude">Entrer latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="enterLongitude">Entrer longitude</string>
+    <string name="viewTips">Voir pourboires</string>
+</resources>

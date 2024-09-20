@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="welcome">Welcome to Tip Calculator</string>
+    <string name="billAmount">Bill amount</string>
+    <string name="enterAmount">Enter amount</string>
+    <string name="applyTaxes">Apply taxes</string>
+    <string name="tipPercent">Tip percent</string>
+    <string name="selectedTip">Selected tip</string>
+    <string name="tipAmount">Tip amount</string>
+    <string name="totalWithTip">Total with tip</string>
+    <string name="numberOfPeople">Number of people</string>
+    <string name="amountPerPerson">Amount per person</string>
+    <string name="bottomBarText">Text bottom</string>
+    <string name="openMap">Open map</string>
+    <string name="addTip">Add tip</string>
+    <string name="latitude">Latitude</string>
+    <string name="enterLatitude">Enter latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="enterLongitude">Enter longitude</string>
+    <string name="viewTips">View tips</string>
+
+
+
+</resources>
